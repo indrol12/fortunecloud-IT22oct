@@ -1,0 +1,3 @@
+CREATE TABLE registration(Id int(10),name varchar(20),contact int(30),city varchar(40));
+
+INSERT INTO registration(Id,name,contact,city) VALUES(2,'sita',868634021,'Mumbai');
